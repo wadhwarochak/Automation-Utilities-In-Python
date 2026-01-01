@@ -1,0 +1,4 @@
+Eat apple||not_done
+eat||not_done
+ll||not_done
+eat||not_done
